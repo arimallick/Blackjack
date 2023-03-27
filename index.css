@@ -31,7 +31,6 @@ button {
 #new-para{
     width: 50%;
     height: 40%;
-    margin: auto 35%;
+    margin: auto;
     line-height: 30px;
-    text-align: left;
 }
